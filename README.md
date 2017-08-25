@@ -1,8 +1,8 @@
 # testnext
 言語はPython3を使用しています。
 
-slackbotのフォルダがBotUserを使用しており、att.pyがIncomingwebhooksを使用しています。
+slackbotのフォルダがBotUserを使用しており、webhook.pyがIncomingwebhooksを使用しています。
 
 slackbotではpythonのslackbotライブラリをインストールして使用しました。
 
-Incomingwebhooksのatt.pyではslackwebライブラリをインストールして使用しています。
+Incomingwebhooksのwebhook.pyではslackwebライブラリをインストールして使用しています。
