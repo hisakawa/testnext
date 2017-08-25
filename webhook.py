@@ -2,7 +2,7 @@
 
 import slackweb
 
-slack = slackweb.Slack(url="https://hooks.slack.com/services/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")
+slack = slackweb.Slack(url="https://hooks.slack.com/services/********************")
 attachments=[]
 attachment={"pretext": "Incomingwebhooksを使用",
 "color": "good",
